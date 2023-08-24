@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Netcruzer
+- 👀 I’m interested in R and Python - Programming Languages ...
+- 🌱 I’m currently learning R/R-Studio Programming, plus Chatgpt ai ...
+- 💞️ I’m looking to collaborate on the pros and cons of becoming a Data Analyst...
+- 📫 How to reach me via the email address I used when joining Github...
+
+<!---
+Netcruzer/Netcruzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+Having just joined GitHub. I am unsure whether putting my email address in the profile is okay. So, I will
+wait to contact the site admin before adding that information.
+I am unclear about the "@" symbol proceeding; my user name is for...(@Netcruzer). Please advise!
+--->
